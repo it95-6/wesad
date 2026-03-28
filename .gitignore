@@ -1,0 +1,5 @@
+.venv/
+data_wesad/
+__pycache__/
+*.pyc
+wesad_windows.npz
